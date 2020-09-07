@@ -14,11 +14,11 @@ const MainBanner = () => {
 							</ReactWOW>
 
 							<ReactWOW animation='fadeInUp' delay='0.2s'>
-								<h1>A Lot More Than Just Insurance</h1>
+								<h1>India's Top Online Insurance Aggregator</h1>
 							</ReactWOW>
 
 							<ReactWOW animation='fadeInUp' delay='0.4s'>
-								<p>Wisdom Policy is packed with insurance guides, premium calculators, investment options, and much more to simplify your online insurance journey.</p>
+								<p>Wisdom Policy, the Best Insurance Web Aggregator, is packed with Health Insurance Policy, Car Insurance Policy, having Health Insurance Plans, Motor Insurance Policies, and different Investment Plans in India.</p>
 							</ReactWOW>
 
 							<ReactWOW animation='fadeInUp' delay='0.6s'>

@@ -104,7 +104,7 @@ module.exports =
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\flexa\\components\\_App\\GoTop.js";
+var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\wisdom-policy\\components\\_App\\GoTop.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -194,7 +194,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _GoTop__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./GoTop */ "./components/_App/GoTop.js");
 /* harmony import */ var _Preloader__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Preloader */ "./components/_App/Preloader.js");
-var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\flexa\\components\\_App\\Layout.js";
+var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\wisdom-policy\\components\\_App\\Layout.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -310,7 +310,7 @@ const Layout = ({
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\flexa\\components\\_App\\Preloader.js";
+var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\wisdom-policy\\components\\_App\\Preloader.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -404,7 +404,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _public_css_responsive_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../public/css/responsive.css */ "./public/css/responsive.css");
 /* harmony import */ var _public_css_responsive_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_public_css_responsive_css__WEBPACK_IMPORTED_MODULE_9__);
 /* harmony import */ var _components_App_Layout__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../components/_App/Layout */ "./components/_App/Layout.js");
-var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\flexa\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\Admin\\Desktop\\WPOLICY\\wisdom-policy\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 

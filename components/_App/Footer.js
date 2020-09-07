@@ -17,7 +17,7 @@ const Footer = () => {
                                     </a>
                                 </Link>
 
-                                <p>Lorem ipsum dolor sitamet,cons adipiscing elit, sed do eiusmod te incididunt ut labore et dolore Lorem ipsum dolor sitamet,cons adipiscing dolore Lorem ipsum dolor.</p>
+                                <p>Buying Insurance online can be a tricky affair. But not anymore! At Wisdom Policy, we navigate this daunting task to get insurance online by giving you a platform to compare insurance policies.</p>
 
                                 <div className="social-area">
                                     <ul>
@@ -73,12 +73,12 @@ const Footer = () => {
 
                         <div className="col-lg-3 col-md-6">
                             <div className="single-widget">
-                                <h3>Service Links</h3>
+                                <h3>Services</h3>
 
                                 <ul>
                                     <li>
                                         <Link href="#">
-                                            <a>Insurance</a>
+                                            <a>Health Insurance</a>
                                         </Link>
                                     </li>
                                     <li>
@@ -88,12 +88,12 @@ const Footer = () => {
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a>Home Insurance</a>
+                                            <a>Life Insurance</a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a>Investment</a>
+                                            <a>Investment Plans</a>
                                         </Link>
                                     </li>
                                     <li>

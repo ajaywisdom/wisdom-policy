@@ -7,9 +7,9 @@ const WhyChooseUs = () => {
         <div className="choose-us-area mt-50 pb-70">
 			<div className="container">
 				<div className="section-title">
-					<span>Why Wisdom Policy</span>
-					<h2>Dedicated Assistance, Twenty Four Seven, Right at Your Fingertips</h2>
-					<p>At Wisdom Policy, we ensure a smooth online insurance journey by understanding your insurance needs</p>
+					<span>Compare & Buy Online Insurance Plan - Wisdom Policy</span>
+					<h2>Multiple Policy Discount | Free Online Quotes | 24/7 Services & Claims | State Minimum Rates| Fast & Easy Payments</h2>
+					<p>At Wisdom Policy, we ensure a smooth online insurance journey by understanding your insurance needs.</p>
 				</div>
 
 				<div className="row">
@@ -18,7 +18,7 @@ const WhyChooseUs = () => {
                             <div className="single-choose">
                                 <span className="flaticon-kindness"></span>
                                 <h3>More than 4000+ plans</h3>
-                                <p>We intend to provide a secured and well-informed insurance plan.</p>
+                                <p>At Wisdom Policy, we intend to provide every household with a secured and well-informed insurance plan so that you can buy easy insurance online.</p>
                                 
                                 <Link href="/insurance-details">
                                     <a><i className="flaticon-right"></i></a>
@@ -34,7 +34,7 @@ const WhyChooseUs = () => {
                             <div className="single-choose">
                                 <span className="flaticon-target"></span>
                                 <h3>Objective Expert Advice</h3>
-                                <p>We ensure transparency by simplifying the complicated insurance conditions.</p>
+                                <p>We ensure transparency by simplifying the complicated online insurance policies.</p>
                                 <Link href="/insurance-details">
                                     <a><i className="flaticon-right"></i></a>
                                 </Link>

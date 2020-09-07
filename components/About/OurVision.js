@@ -16,11 +16,10 @@ const OurVision = () => {
 
 					<div className="col-lg-6">
 						<div className="vision-content">
-							<span>Our Vision</span>
-							<h2>We are Here for You</h2>
-
-							<p>Wisdom Policy being a reliable online insurance provider, offers an extensive range of insurance products, assuring excellent user experience and long-lasting customer relationships.</p>	
-
+							<h2>Our Mission, Vision & Values</h2>
+							<p><b>Our Mission:</b> To generate a holistic safety-net for our customers with access to a unified online platform. We help people compare the best insurance plans and assure a secure payment facility and a stable financial future.</p>	
+<p><b>Our Vision:</b> To create a well-protected India by offering accessible, affordable, and suitable insurance plans. From finding an appropriate insurance plan to providing end-to-end claim support, our goal is not just to make profits but also to grow together in the insurance ecosystem.</p>
+<p><b>Our Values:</b>To build an equitable financial inclusion platform for our customers with 360 digital services.</p>
 							<div className="vision-list">
 								<ul>
 									<li>
